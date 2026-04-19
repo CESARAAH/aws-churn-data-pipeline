@@ -80,9 +80,8 @@ aws-churn-data-pipeline/
 ├── README.md
 ├── architecture/
 │   └── aws-architecture-diagram.png
-├── notebooks/
-│   └── glue_data_exploration_sagemaker_churn_model.py
 ├── scripts/
+│   ├── glue_data_exploration_sagemaker_churn_model.py
 │   └── glue_etl_job.py
 ├── results/
 │   ├── roc_curve.png
