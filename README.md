@@ -89,3 +89,16 @@ aws-churn-data-pipeline/
 │   └── confusion_matrix.png
 └── docs/
     └── final_report.pdf
+
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates how modern data architectures can evolve from descriptive analytics to predictive capabilities, enabling organizations to make better data-driven decisions.
+
+---
+
+## 👤 Author
+
+César Augusto Amórtegui Hernández
