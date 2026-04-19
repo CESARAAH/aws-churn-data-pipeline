@@ -77,15 +77,20 @@ The ML component was deployed within a VPC using private subnets and an S3 gatew
 ## 📁 Repository Structure
 
 aws-churn-data-pipeline/
+
 ├── README.md
+
 ├── architecture/
 │   └── aws-architecture-diagram.png
+
 ├── scripts/
 │   ├── glue_data_exploration_sagemaker_churn_model.py
 │   └── glue_etl_job.py
+
 ├── results/
 │   ├── roc_curve.png
 │   └── confusion_matrix.png
+
 └── docs/
     └── final_report.pdf
 
